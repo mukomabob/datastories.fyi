@@ -1,0 +1,11 @@
+Payment Confirmation: USD 7.50 paid to 123456 - CHICKEN INN SAMORA. Approval Code: MP260927.2014.H10001. New balance: USD 72.50
+Transfer Confirmation: USD 20.00 sent to TENDAI MOYO. Approval Code: PP260928.1205.A20002. New balance: USD 52.50
+Transfer Confirmation: USD 20.00 sent to TENDAI MOYO. Approval Code: PP260928.1205.A20002. New balance: USD 52.50
+Your Acc XX4821 has been debited with USD 25.00 on 29/09/26 18:30:12. Ref: POS PICK N PAY BORROWDALE. Balance: USD 410.00
+Transfer Confirmation. USD 50.00 ZIPIT Receive. Approval Code: ZP260929.0910.C30003. New wallet balance: USD 102.50
+Payment Confirmation: USD 11.00 paid to 654321 - PIZZA INN AVONDALE. Approval Code: MP260929.2240.H40004. New balance: USD 91.50
+A loan recovery transaction for USD 15.00, AccNr XX4821 has been completed 30/09/26 06:00:05
+Recharge Confirmation: USD 2.00 to 263771000001 successful. Approval Code: RC260929.0745.T1000005.
+New  balance: USD 89.50
+Card Payment: USD 9.99 paid to NETFLIX.COM         LOS GATOS          USA. Approval Code: IP260929.2310.T1000006.
+New balance: USD 78.21.
